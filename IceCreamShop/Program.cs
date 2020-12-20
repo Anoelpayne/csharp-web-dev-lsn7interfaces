@@ -25,6 +25,7 @@ namespace IceCreamShop
             {
                 Console.WriteLine(flavor.Name);
             }
+            Console.WriteLine('\n' + "********" + '\n');
 
             foreach (Cone cone in availableCones)
             {

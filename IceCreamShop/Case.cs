@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 
 namespace IceCreamShop
 {
@@ -31,6 +32,7 @@ namespace IceCreamShop
             Flavors.Add(flavor3);
             Flavors.Add(flavor4);
             Flavors.Add(flavor5);
-        } 
+        }
+
     }
 }
